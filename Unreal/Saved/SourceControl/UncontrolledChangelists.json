@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/EnemyAI.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/blinn1SG.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/cape_.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__cape__BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__cape__Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__cape__Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__eye__BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__eye__Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__eye__Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__eye_cover__BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__eye_cover__Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__eye_cover__Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__GM1_BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__GM1_Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__GM1_Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__hands__BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__hands__Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__hands__Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__head__BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__head__Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__head__Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__pants__BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__pants__Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__pants__Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__shirt__BaseColor.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__shirt__Normal.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/enemy__shirt__Roughness.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/eye_.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/eye_cover_.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/GM1.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/hands_.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/head_.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/pants_.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/shirt_.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/uploads_files_4153000_enemy+.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/uploads_files_4153000_enemy+_PhysicsAsset.uasset",
+				"C:/Users/dejan/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Game-Jam/Unreal/Content/Blueprints/model/uploads_files_4153000_enemy+_Skeleton.uasset"
+			]
+		}
+	]
+}
